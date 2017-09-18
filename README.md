@@ -1,5 +1,5 @@
 # centra
-Centra - it's new ERC20 standart tokens on Ethereum.
+Centra - it's new ERC20 standard tokens on Ethereum.
 
 1) We are creted 20 millions tokens with price 200 Centra = 1 Eth
 Owner get some % tokens on start. 
