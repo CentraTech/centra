@@ -1,7 +1,7 @@
 # centra
 Centra - it's new ERC20 standart tokens on Ethereum.
 
-1) We are creted 20 millions tokens with price 250 Centra = 1 Eth
+1) We are creted 20 millions tokens with price 200 Centra = 1 Eth
 Owner get some % tokens on start. 
 Another tokens will generating or peoples can buy tokens.
 
